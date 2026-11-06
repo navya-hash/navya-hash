@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Navya Modi 👋
 
-<!--
-**navya-hash/navya-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **3rd Year B.Tech IT Student at NIT Jalandhar** | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I build **AI-powered applications and scalable full-stack solutions**, combining strong problem-solving skills with practical software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** Java, C++, Python, C
+- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript
+- **Backend:** FastAPI, Node.js, Express.js
+- **Databases:** PostgreSQL, MongoDB, MySQL, Qdrant
+- **AI/ML:** LangChain, LangGraph, RAG, LLMs, FastEmbed, OpenCV
+- **Tools:** Git, GitHub, Docker, VS Code
+
+### 🏆 Highlights
+- 🥇 HackMol 7.0 Winner – HumanityCheck
+- 🏅 Smart India Hackathon National Finalist – DoodleQuest
+- 🥈 IIT Ropar Hackathon Runner-up – AI in Education
+
+### 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/navya-modi-08255b327/)
+- 🐙 [GitHub](https://github.com/navya-hash)
+
+**Open to Software Engineering, Full-Stack Development & AI Engineering Internship Opportunities.**
